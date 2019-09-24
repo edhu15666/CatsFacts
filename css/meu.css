@@ -1,0 +1,12 @@
+body{
+    background-color: blueviolet;
+    background-image: url("../imagens/fundo.png");
+}
+.cabecalho{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+}
