@@ -49,6 +49,135 @@ function gerar5 (){
     fato.innerHTML += `<div class="list-group"> <a href="#" class="list-group-item list-group-item-action"> <img src="imagens/gato.png"> ${facts[Math.floor(Math.random()*facts.length)]}  </a> </div>`
 
     }
-  
+}
+function gerar1 (){
+    let i = 0;
+    let fato = document.querySelector('.receber');
+    fato.innerHTML = "";
+   for(let i = 0; i< 1; i++){
+    fato.innerHTML += `<div class="list-group"> <a href="#" class="list-group-item list-group-item-action"> <img src="imagens/gato.png"> ${facts[Math.floor(Math.random()*facts.length)]}  </a> </div>`
 
+    }
+}
+
+function gerar2 (){
+    let i = 0;
+    let fato = document.querySelector('.receber');
+    fato.innerHTML = "";
+   for(let i = 0; i< 2; i++){
+    fato.innerHTML += `<div class="list-group"> <a href="#" class="list-group-item list-group-item-action"> <img src="imagens/gato.png"> ${facts[Math.floor(Math.random()*facts.length)]}  </a> </div>`
+
+    }
+}
+function gerar3 (){
+    let i = 0;
+    let fato = document.querySelector('.receber');
+    fato.innerHTML = "";
+   for(let i = 0; i< 3; i++){
+    fato.innerHTML += `<div class="list-group"> <a href="#" class="list-group-item list-group-item-action"> <img src="imagens/gato.png"> ${facts[Math.floor(Math.random()*facts.length)]}  </a> </div>`
+
+    }
+}
+function gerar4 (){
+    let i = 0;
+    let fato = document.querySelector('.receber');
+    fato.innerHTML = "";
+   for(let i = 0; i< 4; i++){
+    fato.innerHTML += `<div class="list-group"> <a href="#" class="list-group-item list-group-item-action"> <img src="imagens/gato.png"> ${facts[Math.floor(Math.random()*facts.length)]}  </a> </div>`
+
+    }
+}
+function gerar5b (){
+    gerar5();
+}
+function gerar6 (){
+    let i = 0;
+    let fato = document.querySelector('.receber');
+    fato.innerHTML = "";
+   for(let i = 0; i< 6; i++){
+    fato.innerHTML += `<div class="list-group"> <a href="#" class="list-group-item list-group-item-action"> <img src="imagens/gato.png"> ${facts[Math.floor(Math.random()*facts.length)]}  </a> </div>`
+
+    }
+}
+function gerar7 (){
+    let i = 0;
+    let fato = document.querySelector('.receber');
+    fato.innerHTML = "";
+   for(let i = 0; i< 7; i++){
+    fato.innerHTML += `<div class="list-group"> <a href="#" class="list-group-item list-group-item-action"> <img src="imagens/gato.png"> ${facts[Math.floor(Math.random()*facts.length)]}  </a> </div>`
+
+    }
+}
+function gerar8 (){
+    let i = 0;
+    let fato = document.querySelector('.receber');
+    fato.innerHTML = "";
+   for(let i = 0; i< 8; i++){
+    fato.innerHTML += `<div class="list-group"> <a href="#" class="list-group-item list-group-item-action"> <img src="imagens/gato.png"> ${facts[Math.floor(Math.random()*facts.length)]}  </a> </div>`
+
+    }
+}
+function gerar9 (){
+    let i = 0;
+    let fato = document.querySelector('.receber');
+    fato.innerHTML = "";
+   for(let i = 0; i< 9; i++){
+    fato.innerHTML += `<div class="list-group"> <a href="#" class="list-group-item list-group-item-action"> <img src="imagens/gato.png"> ${facts[Math.floor(Math.random()*facts.length)]}  </a> </div>`
+
+    }
+}
+function gerar10 (){
+    let i = 0;
+    let fato = document.querySelector('.receber');
+    fato.innerHTML = "";
+   for(let i = 0; i< 10; i++){
+    fato.innerHTML += `<div class="list-group"> <a href="#" class="list-group-item list-group-item-action"> <img src="imagens/gato.png"> ${facts[Math.floor(Math.random()*facts.length)]}  </a> </div>`
+
+    }
+}
+function gerar11 (){
+    let i = 0;
+    let fato = document.querySelector('.receber');
+    fato.innerHTML = "";
+   for(let i = 0; i< 11; i++){
+    fato.innerHTML += `<div class="list-group"> <a href="#" class="list-group-item list-group-item-action"> <img src="imagens/gato.png"> ${facts[Math.floor(Math.random()*facts.length)]}  </a> </div>`
+
+    }
+}
+function gerar12 (){
+    let i = 0;
+    let fato = document.querySelector('.receber');
+    fato.innerHTML = "";
+   for(let i = 0; i< 12; i++){
+    fato.innerHTML += `<div class="list-group"> <a href="#" class="list-group-item list-group-item-action"> <img src="imagens/gato.png"> ${facts[Math.floor(Math.random()*facts.length)]}  </a> </div>`
+
+    }
+}
+
+function gerar13 (){
+    let i = 0;
+    let fato = document.querySelector('.receber');
+    fato.innerHTML = "";
+   for(let i = 0; i< 13; i++){
+    fato.innerHTML += `<div class="list-group"> <a href="#" class="list-group-item list-group-item-action"> <img src="imagens/gato.png"> ${facts[Math.floor(Math.random()*facts.length)]}  </a> </div>`
+
+    }
+}
+function gerar14 (){
+    let i = 0;
+    let fato = document.querySelector('.receber');
+    fato.innerHTML = "";
+   for(let i = 0; i< 14; i++){
+    fato.innerHTML += `<div class="list-group"> <a href="#" class="list-group-item list-group-item-action"> <img src="imagens/gato.png"> ${facts[Math.floor(Math.random()*facts.length)]}  </a> </div>`
+
+    }
+}
+function gerar15 (){
+    let i = 0;
+    let fato = document.querySelector('.receber');
+    fato.innerHTML = "";
+   for(let i = 0; i< 15; i++){
+    fato.innerHTML += `<div class="list-group"> <a href="#" class="list-group-item list-group-item-action"> <img src="imagens/gato.png"> ${facts[Math.floor(Math.random()*facts.length)]}  </a> </div>`
+
+    }
 }
